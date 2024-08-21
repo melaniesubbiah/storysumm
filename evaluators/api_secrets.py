@@ -1,0 +1,6 @@
+OA_KEY = ''
+OA_ORGANIZATION = ''
+
+CLAUDE_KEY = ''
+
+HF_AUTHORIZATION = ''
