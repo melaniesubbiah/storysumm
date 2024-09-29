@@ -1575,13 +1575,19 @@
         "summary": [
             "In the story \"The Painter Cat,\" Casey, a struggling artist, takes a job as a maid for an elderly woman named Meredith to make ends meet.",
             "One day, Meredith offers Casey $1,000 to paint a portrait of her as a 30-year-old woman.",
-            "Casey accepts the offer and works hard to create the painting, taking artistic liberties to make Meredith appear youthful and beautiful.When the painting is finished, Meredith insists that Casey sign the name \"Reynaldo\" instead of her own.",
+            "Casey accepts the offer and works hard to create the painting, taking artistic liberties to make Meredith appear youthful and beautiful.", 
+            "When the painting is finished, Meredith insists that Casey sign the name \"Reynaldo\" instead of her own.",
             "Casey refuses and signs her own name, causing Meredith to become distraught and destroy the painting.",
-            "Casey leaves with the money but feels confused about the situation.Later, Casey learns from a grocery store manager that Reynaldo was actually Meredith's beloved cat, who was a better painter than Casey.",
+            "Casey leaves with the money but feels confused about the situation.", 
+            "Later, Casey learns from a grocery store manager that Reynaldo was actually Meredith's beloved cat, who was a better painter than Casey.",
             "Weeks later, struggling financially again, Casey sees several portraits of Meredith displayed in a coffee bar, all signed by \"Reynaldo.\"",
-            "She discovers that Meredith is the heir to a whiskey brand fortune and that the paintings were created by her cat.In the end, Casey realizes that her pride and refusal to follow Meredith's request cost her the opportunity to earn more money and left her in a worse situation than before."
+            "She discovers that Meredith is the heir to a whiskey brand fortune and that the paintings were created by her cat.", 
+            "In the end, Casey realizes that her pride and refusal to follow Meredith's request cost her the opportunity to earn more money and left her in a worse situation than before."
         ],
         "errors": [
+            1,
+            1,
+            1,
             1,
             1,
             1,
