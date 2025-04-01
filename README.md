@@ -17,7 +17,7 @@ Description of data fields:\
 ``split`` - val or test\
 ``model`` - LLM used to generate the summary\
 
-The file ``storysumm_w_subj.json`` has an added field from the followup paper:
+The file ``storysumm_w_subj.json`` has an added field from the followup paper:\
 ``subjective`` - sentence-level label for whether the sentence is subjectively faithful (0 is objective, 1-5 is subjective with labels described in the followup paper)\
 
 
