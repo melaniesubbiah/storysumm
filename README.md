@@ -20,6 +20,8 @@ Description of data fields:\
 The file ``storysumm_w_subj.json`` has an added field from the followup paper:\
 ``subjective`` - sentence-level label for whether the sentence is subjectively faithful (0 is objective, 1-5 is subjective with labels described in the followup paper)
 
+The human-written summaries from the followup paper are provided in ``human_summaries.json``
+
 
 ### Install
 
