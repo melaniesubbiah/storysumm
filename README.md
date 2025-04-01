@@ -15,10 +15,10 @@ Description of data fields:\
 ``explanations`` - a reason for each 0 in the errors list, listed in order\
 ``claims`` - atomic claims made in the summary, generated and listed by GPT-4\
 ``split`` - val or test\
-``model`` - LLM used to generate the summary\
+``model`` - LLM used to generate the summary
 
 The file ``storysumm_w_subj.json`` has an added field from the followup paper:\
-``subjective`` - sentence-level label for whether the sentence is subjectively faithful (0 is objective, 1-5 is subjective with labels described in the followup paper)\
+``subjective`` - sentence-level label for whether the sentence is subjectively faithful (0 is objective, 1-5 is subjective with labels described in the followup paper)
 
 
 ### Install
