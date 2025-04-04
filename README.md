@@ -2,6 +2,8 @@
 
 Code and data for the paper: https://arxiv.org/pdf/2407.06501
 
+And a followup work: https://arxiv.org/pdf/2504.01132
+
 ### Dataset
 The StorySumm dataset is in the file ``storysumm.json``
 
