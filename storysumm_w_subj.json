@@ -379,12 +379,13 @@
       0,
       1,
       1,
-      1,
+      0,
       0
     ],
     "story-id": 3,
     "explanations": [
       "Labeling this as an abduction by aliens is an interpretive jump.",
+      "Labeling the figures as aliens is an interpretive jump.",
       "The figures do not give the man a lollipop and leave him on the road. They disappear, and then a door appears, the man exits and is back on the road with a lollipop."
     ],
     "claims": [
