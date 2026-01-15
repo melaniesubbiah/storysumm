@@ -65,3 +65,6 @@ You can then check results on the full expanded set of labels using the ``Result
 | Full     | CoT (Mixtral)    | 0.04          | 97         | 0.39      | 1.00      | 0.0       | 7.5       | 52.5              |
 | Full | FABLES | 0.33          | 55         | 0.53      | 0.78      | 70.0      | 52.5      | 68.1              |
 | Full     | MiniCheck        | 0.02          | 16         | 0.4       | 0.17      | 90.0      | 82.5      | 50.8              |
+
+### Sentence-level labels (1/14/26 Update)
+We have corrected two typos in sentence-level faithfulness labels in storysumm.json and storysumm_w_subj.json. We additionally want to clarify the language in the paper to specify that for the gold set of labels we merge unfaithful labels from the annotators that *all three* annotators agreed on, with the adjudicated expert labels and filtered hybrid labels. We are also adding the original annotation file from the annotators with their explanations in case it is helpful for future work.
